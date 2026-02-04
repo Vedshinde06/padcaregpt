@@ -1,0 +1,9 @@
+founder_story
+
+SOURCE: PadCare About section, founder narrative
+
+PadCare was founded by Ajinkya Dhariya, a mechanical engineering student who was inspired to act after witnessing used sanitary napkins discarded in a natural forest area near Pune.
+
+Further exposure to landfill conditions revealed the manual handling of sanitary waste by waste pickers, highlighting severe health risks and social stigma. This experience motivated the creation of a solution that addressed sanitary waste disposal with dignity, safety, and sustainability.
+
+After multiple prototype iterations, PadCare was formally established to build a scalable system that could manage menstrual waste responsibly while protecting both people and the environment.

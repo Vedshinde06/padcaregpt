@@ -1,0 +1,9 @@
+investor_pitch
+
+SOURCE: Public investor-facing descriptions
+
+PadCare is building scalable infrastructure for sustainable sanitary waste management in India. Through proprietary 5D technology and a decentralized service model, PadCare converts hazardous menstrual waste into safe, reusable raw materials.
+
+By addressing a massive, underserved sanitation problem, the company delivers measurable environmental and social impact while supporting organizations in achieving ESG and sustainability goals.
+
+PadCare combines climate technology, circular economy principles, and service-based delivery to create a long-term solution for menstrual waste management.
